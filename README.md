@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bike Sales Excel Data Analytics Project</title>
 </head>
 <body>
     <h1>Bike Sales Excel Data Analytics Project</h1>
