@@ -40,10 +40,8 @@
         <li>Refer to the README file and screenshots for additional information and guidance.</li>
     </ol>
     <h2>Screenshots</h2>
-    <img src="screenshots/dashboard_overview.png" alt="Dashboard Overview">
+    <img src="Screenshot 2024-04-04 at 11.51.17 PM.png" alt="Dashboard Overview">
     <p><em>Screenshot: Overview of the interactive dashboard showcasing key metrics and insights.</em></p>
-    <img src="screenshots/pivot_table_analysis.png" alt="Pivot Table Analysis">
-    <p><em>Screenshot: Example of pivot table analysis summarizing bike sales data.</em></p>
     <h2>Future Enhancements</h2>
     <ul>
         <li><strong>Data Integration:</strong> Incorporate additional datasets to enrich the analysis and provide a comprehensive view of bike sales.</li>
